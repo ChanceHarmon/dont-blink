@@ -1,7 +1,7 @@
 # dont-blink
 Testing some things I have loved in the past.
 
-** Version 0.0.1
+## Version 0.0.1
 
 
 # Main First Goals
@@ -16,6 +16,9 @@ Testing some things I have loved in the past.
   
   URL
   - https://www.npmjs.com/package/node-webcam
+
+  Maybe ANother Route
+  - https://medium.com/swlh/how-to-access-webcam-and-take-picture-with-javascript-b9116a983d78
   
   
 # Documentation of Trial and Error
